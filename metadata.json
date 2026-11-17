@@ -1,0 +1,6 @@
+{
+  "name": "PeerLink VPN",
+  "description": "Peer-to-peer VPN proxy application to securely share or connect to remote internet connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

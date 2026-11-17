@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PeerLink VPN</string>
+    <string name="vpn_service_name">PeerLink VPN Service</string>
+    <string name="vpn_notification_channel_name">VPN Connection Status</string>
+    <string name="vpn_notification_channel_desc">Shows active status and traffic stats of the PeerLink VPN tunnel</string>
+    <string name="vpn_active_title">PeerLink VPN is Active</string>
+    <string name="vpn_active_desc_client">Secure tunnel connected to remote host</string>
+    <string name="vpn_active_desc_host">Hosting internet connection for peers</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="stop_hosting">Stop Hosting</string>
+</resources>
